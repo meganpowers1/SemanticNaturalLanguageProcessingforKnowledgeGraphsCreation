@@ -6,6 +6,7 @@ To begin with, the sample ontology corpus is saved into a .txt file and imported
 
 
 Figure 1. Overview of the Heliophysics .txt file
+
 ![alt text](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step0.png?raw=true)
 
 
