@@ -23,16 +23,26 @@ terms. This stage is depicted in Figures 19, 20, 21, 22, 23, 24, 25 and 26.
 Figure 6. Overview of the Heliophysics .txt file
 ![alt text](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step0.png?raw=true)
 
+
 Figure 7. Opening and Saving the Dataset
-30
+
+
 Figure 8. Removing Stopwords from the Corpus
+
+
 Figure 9. Tokenizing the Corpus
-31
+
+
 Figure 10. Stemming and Lemmatizing the Corpus
+
+
 Figure 11. Importing spaCy
-32
+
+
 Figure 12. Training Data and Custom Labelling
-33
+
+
+
 Figure 13. Training the en core web sm Model
 Figure 14. Testing Data for the Trained en core web sm Model
 34
