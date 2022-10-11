@@ -5,7 +5,7 @@ This ReadMe contains an overview of the model prototype, starting from importing
 To begin with, the sample ontology corpus is saved into a .txt file and imported into a Jupyter Notebook. Stopwords are removed from the dataset, and it is tokenized, stemmed, and lemmatized. This process is shown in Figures 1 to 5. 
 
 
-Figure 1. Overview of the Heliophysics .txt file
+<b> Figure 1. Overview of the Heliophysics .txt file </b>
 
 ![alt text](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step0.png?raw=true)
 
