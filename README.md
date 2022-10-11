@@ -21,7 +21,7 @@ the most similar, and Agglomerative and K-means clustering to identify clusters 
 terms. This stage is depicted in Figures 19, 20, 21, 22, 23, 24, 25 and 26.
 29
 Figure 6. Overview of the Heliophysics .txt file
-![alt text]([http://url/to/img.png](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step0.png?raw=true))
+![alt text](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step0.png?raw=true)
 
 Figure 7. Opening and Saving the Dataset
 30
