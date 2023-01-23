@@ -1,4 +1,4 @@
-# SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation
+# Semantic Natural Language Processing for Knowledge Graphs Creation
 
 This ReadMe contains an overview of the model prototype, starting from importing text and finishing with the final ontology. This overview is presented in steps. 
 
