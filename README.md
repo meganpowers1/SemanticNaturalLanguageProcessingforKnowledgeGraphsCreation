@@ -5,7 +5,7 @@ This ReadMe contains an overview of the model prototype, starting from importing
 To begin with, the sample ontology corpus is saved into a .txt file and imported into a Jupyter Notebook. Stopwords are removed from the dataset, and it is tokenized, stemmed, and lemmatized. This process is shown in Figures 1 to 5. 
 
 
-<i> Figure 1. Overview of the Heliophysics .txt file </i>
+<i> Figure 1. Overview of the HeliophysicsDataset.txt file </i>
 
 ![alt text](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step0.png?raw=true)
 
@@ -14,6 +14,7 @@ To begin with, the sample ontology corpus is saved into a .txt file and imported
 
 ![alt text](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step1.png?raw=true)
 
+The source dataset used is HeliophysicsDataset.txt
 
 <i>Figure 3. Removing Stopwords from the Corpus</i>
   
@@ -198,6 +199,9 @@ Then, the resulting ontology can be visualised in Protege. This includes Axioms,
 <i>Figure 37. Example instance in Protege</i>
 
 ![alt text](https://github.com/meganpowers1/SemanticNaturalLanguageProcessingforKnowledgeGraphsCreation/blob/main/AutOntFigures/Step31.png?raw=true)
+
+
+
 
 
 
